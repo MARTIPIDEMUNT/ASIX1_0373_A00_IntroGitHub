@@ -31,3 +31,12 @@ CERRAR ETIQUETA 1
 * Elemento desordenado 1
 * Elemento desordenado 2
 * Elemento desordenado 3
+
+regooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooqejnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngnernognerneroreverjvernvnervvnerovnerrvnenrvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 
+
+```html
+<p>Esto es un parrafo</p>
+```
+[link](https://stackoverflow.com/questions/41345160/display-link-url-in-markdown/ "Manual oficial de Markdown")
+
+![alt text](iniesta.png/ "Imagen random de un archivo")
