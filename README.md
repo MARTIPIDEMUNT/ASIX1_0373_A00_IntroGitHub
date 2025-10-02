@@ -41,7 +41,8 @@ regooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooqejnnnnnnnn
 
 ![alt text](iniesta.png/ "Imagen random de un archivo")
 
-| Jugador | Equipo| Nombre |
-| 32 | Lakers | Magic Jonhson|
-| 33 | Celtics | Larry Bird|
+| Jugador | Equipo | Nombre |
+|------------:|:---------------:|:--------------|
+| 32 | Lakers | Magic Jonhson |
+| 33 | Celtics | Larry Bird |
 | 23 | Bulls | Michael Jordan |
